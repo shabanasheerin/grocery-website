@@ -1,0 +1,83 @@
+h3{
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    
+}
+.product{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    margin-top: 20px;
+    padding-bottom: 50px;
+
+}
+.h{
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    box-shadow:  0 2px 1px rgba(0,0,0,0.09), 0 4px 2px rgba(0,0,0,0.09), 0 8px 4px rgba(0,0,0,0.09), 0 16px 8px rgba(0,0,0,0.09), 0 32px 16px rgba(0,0,0,0.09);
+}
+.w{
+    background-color: white;
+    
+}
+.u{
+    padding: 30px;
+}
+.h:hover{
+    background-color:whitesmoke;
+}
+.i{
+    width: 190px;
+    height: 190px;
+    padding: 20px;
+}
+.color{
+    background-color:#E6E6FA;
+    width: 100%;
+    height: 53px;
+
+}
+footer{
+    display: flex;
+    
+    justify-content: space-around;
+    margin-top: 20px;
+    line-height: 25px;
+    font-family: "Poppins", sans-serif;
+    border-bottom: 1px solid gainsboro;
+    padding-bottom: 30px;
+    
+    
+    
+
+    
+}
+footer span{
+    font-weight: bold;
+}
+.use .or{
+    color: orange;
+}
+.connect i{
+    font-size: 24px;
+    margin-right: 7px;
+    margin-top: 7px;
+}
+.home{
+    margin-top: 20px;
+}
+.mm{
+    margin-top: 10px;
+}
+.c{
+    font-size: 12px;
+}
+.ff{
+    font-family: "Poppins", sans-serif;
+    margin-top: 10px;
+    font-size: 15px;
+}

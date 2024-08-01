@@ -1,0 +1,20 @@
+.about{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    
+}
+.content{
+  width: 45%;
+  font-family: "Poppins", sans-serif;
+  
+
+}
+.about h3{
+    padding-bottom: 25px;
+    text-align: center;
+    
+}
+.about p{
+    text-align: center;
+}
